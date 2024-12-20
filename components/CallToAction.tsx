@@ -33,7 +33,7 @@ const data = [
   },
   //   location
   {
-    title: "Rangpur, Bangladesh",
+    title: "Radhabollov, Rangpur",
     link: "https://maps.app.goo.gl/FQRDF2EiYPLdPx2H6",
     icon: <FaLocationDot />,
   },

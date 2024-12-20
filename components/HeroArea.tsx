@@ -20,7 +20,7 @@ export default function HeroArea() {
         <div className="info mt-4">
           <h1 className="text-2xl sm:text-3xl font-bold">Oli Academy</h1>
           <p className="font-medium flex flex-row items-center gap-0.5">
-            <FaLocationDot className="text-red-500" /> Rangpur Bangladesh
+            <FaLocationDot className="text-red-500" /> Radhabollov, Rangpur
           </p>
         </div>
       </div>
